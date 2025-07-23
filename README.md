@@ -1,6 +1,6 @@
 # My Backend API
 
-This is the **Node.js + Express + Prisma backend** for mongo DB
+This is the **Node.js + Express + Prisma backend** for my backend
 
 ---
 
